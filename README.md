@@ -4,7 +4,11 @@ Voice is best gift for you!
 
 ![ali](./pics/alipay_w.jpg)  ![weixin](./pics/weixinpay_w.jpg)
 
- 
+<div align="center">
+<img src="https://github.com/wyscjm/my_voice/blob/master/pics/alipay_w.jpg" alt="" height="330" width="330" />
+<img src="https://github.com/wyscjm/my_voice/blob/master/pics/weixinpay_w.jpg" alt="" height="330" width="330" /><br>
+</div>
+
 
 
 ## 苏轼(苏东坡)的词
